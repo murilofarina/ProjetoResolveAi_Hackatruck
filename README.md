@@ -18,7 +18,7 @@
 >
 > Queriamos criar uma solução simples, mas eficiente, que conecta quem precisa com quem resolve.
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczNxlVpi521GuOEqR1g-GXmdbdjhUgNKKofOHIueIVKrvl89CHveqU0TPcXjmHIopjd1PFccWaUXgiveK7He8LZtjYBLUADONU7fIxrOqnQXzmNWOk1kDO6Q37WxTeVv4E2V21JSwtNpvMwYKvY3_VAADQ=w1920-h563-s-no-gm?authuser=0" width="">
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPGN94lO2HCKDkXl7adgClJetJjbBwsbtreo27SCiAy3ozauxer6byKg8BtO5UhkXF7TfocYXN5lY3aZSTcbbA1BfVLli_ayFdixYDKx0YePXtKWH-VMU_NOTyBC05uGHymfz0BGu0KB9xPFRVy9lqyBw=w1920-h563-s-no-gm?authuser=0" width="">
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczOLyLBJhKkZKHeF8JCO5-O0TidJXz05JDGpq1cjLrdfmKn6XTz6Ug5eraR8gqOhEDe8bqoqZ0EpkThVCxZaAolfRFeYf2yIsMWZN-CekRb5uiiNoK8ZTVgLtdlfClUNh2uYZm8c28dGvFJK4e6BBOdUig=w1920-h563-s-no-gm?authuser=0" width="">
 
