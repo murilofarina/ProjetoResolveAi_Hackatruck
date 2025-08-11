@@ -30,6 +30,4 @@
 
 ⚠️ Esse é apenas um protótipo funcional, criado para demonstrar a ideia e o fluxo da aplicação. Algumas partes ainda não estão completas ou conectadas a um backend real.
 
-[ResolveAi Oficial.zip](https://github.com/user-attachments/files/21539435/ResolveAi.Oficial.zip)
-
-
+- [ResolveAi - Protótipo Final](./ResolveAi%20-%20Prot%C3%B3tipo%20Final)
